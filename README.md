@@ -1,8 +1,8 @@
-# [TeleSeed](https://telegram.me/TeleSeed)
+# [SPARKTEAMBOT](https://telegram.me/SPARKSTEAM1)
 
 [![https://gitter.im/SEEDTEAM/TeleSeed](https://badges.gitter.im/SEEDTEAM/TeleSeed.svg)](https://gitter.im/SEEDTEAM/TeleSeed?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-**An advanced and powerful administration bot based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot) licensed under the [GNU General Public License](https://github.com/SEEDTEAM/TeleSeed/blob/master/LICENSE)**.
+**An advanced and powerful administration bot based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot) licensed under the [GNU General Public License](https://github.com/SPARKTEA/SPARKTEAMBOT/edit/master/LICENSE)**.
 # Features
 
 * **A powerful antispam system with custom sensitivity for each group**
@@ -26,7 +26,7 @@
 * * *
 
 ## Commands
-TeleSeed has several commands that are only usable at certain ranks.
+SPARKSTEQM1 has several commands that are only usable at certain ranks.
 
 
 ## General Commands
@@ -236,8 +236,8 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/SEEDTEAM/TeleSeed.git -b supergroups
-cd TeleSeed
+git clone https://github.com/SPARKTEA/SPARKTEAMBOT -b supergroups
+cd SPARKTEAMBOT
 chmod +x launch.sh
 ./launch.sh install
 ./launch.sh # Enter a phone number & confirmation code.
@@ -246,7 +246,7 @@ chmod +x launch.sh
 To install everything in one command (useful for VPS deployment) on Debian-based distros, use:
 ```sh
 #https://github.com/yagop/telegram-bot/wiki/Installation
-sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev libjansson* libpython-dev make unzip git redis-server g++ autoconf -y --force-yes && git clone https://github.com/SEEDTEAM/TeleSeed.git -b supergroups && cd TeleSeed && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev libjansson* libpython-dev make unzip git redis-server g++ autoconf -y --force-yes && git clone https://github.com/SPARKTEA/SPARKTEAMBOT.git -b supergroups && cd SPARKTEAMBOT && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
 
 * * *
