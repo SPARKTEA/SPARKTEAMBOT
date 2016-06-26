@@ -13,4 +13,4 @@ Please open a [github issue](https://github.com/rizaumami/merbot/issues) if you 
 
 ***
 
-_Thanks to [rizkymsyahputra](https://github.com/rizkymsyahputra) for the awesome merbot artwork_.
+_Thanks to [SPARKTEAMBOT](https://github.com/SPARKTEA/SPARKTEAMBOT) for the awesome merbot artwork_.
